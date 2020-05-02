@@ -10,7 +10,7 @@ public class work1 {
 
 @Test
  public void verifyfacebookhomepage()
- {  
+ {                //git testing
 	 String URL = "https://www.facebook.com";
 	 //open the url of selenium
 	 System.setProperty("webdriver.chrome.driver", "C:\\chromedriver_win32\\chromedriver.exe");
